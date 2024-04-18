@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PM02_4ISIP-020_ERMOKHIN", "PM02_4ISIP-020_ERMOKHIN\PM02_4ISIP-020_ERMOKHIN.csproj", "{4EB953EF-16E7-402C-B62B-143C337A605B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EB953EF-16E7-402C-B62B-143C337A605B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB953EF-16E7-402C-B62B-143C337A605B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB953EF-16E7-402C-B62B-143C337A605B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB953EF-16E7-402C-B62B-143C337A605B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DEEDE1A-36D1-4407-81DB-7D43812B1A93}
+	EndGlobalSection
+EndGlobal
